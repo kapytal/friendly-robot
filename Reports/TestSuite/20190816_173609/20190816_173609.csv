@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite,Firefox 68.0,,2019-08-16 17:36:18,2019-08-16 17:36:32,14.608s,PASSED
+,,,,,,
+Test Cases/CaseNoSpace,Firefox 68.0,,2019-08-16 17:36:19,2019-08-16 17:36:32,13.206s,PASSED
+openBrowser,Firefox 68.0,,2019-08-16 17:36:20,2019-08-16 17:36:30,10.311s,PASSED
+closeBrowser,Firefox 68.0,,2019-08-16 17:36:30,2019-08-16 17:36:32,2.297s,PASSED
